@@ -33,7 +33,7 @@ Structure of the file
 1. Talias's role ID that was searched for (identical in all lines).
 2. Last name of the user
 3. First name of the user
-4. Personnel number (important: add 0 in the first place where there are only 5 digits)
+4. Personal number
 5. E-mail address of the user
 6. Status of the user
   1 -> User is authorized to the role
