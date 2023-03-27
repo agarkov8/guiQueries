@@ -1,9 +1,6 @@
 # guiQueries
 Implementation of a GUI reporting tool for evaluating employee authorizations
 
-# guiQueries
-Implementation of a GUI reporting tool for evaluating employee authorizations
-
 The entries can then be confirmed with "Enter" or also by mouse click on the login button (See photo)!
 
  ![image009](https://user-images.githubusercontent.com/55351778/227943320-c7beb99f-f7b4-48ee-960e-f1c94cd4d36c.png)
